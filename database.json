@@ -1,0 +1,133 @@
+{
+  "chats": {
+    "6282389924037@s.whatsapp.net": {
+      "antilink": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false
+    },
+    "120363427739869496@g.us": {
+      "antilink": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false
+    },
+    "247278463934489@lid": {
+      "antilink": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "antilink2": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "242137790681132@lid": {
+      "antilink": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false
+    },
+    "254770110424-1533273368@g.us": {
+      "antilink": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false
+    },
+    "120363079874818907@g.us": {
+      "antilink": true,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false
+    },
+    "120363078902270000@g.us": {
+      "name": "RENTAL BOT",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    },
+    "108968353525869@lid": {
+      "name": "",
+      "antilink": false,
+      "antilink2": false,
+      "antilinkKick": false,
+      "mute": false,
+      "welcome": false,
+      "sewa": {
+        "active": false,
+        "expired": 0,
+        "addedAt": 0,
+        "days": 0
+      },
+      "store": {},
+      "bye": false,
+      "welcomeText": "",
+      "byeText": "",
+      "testi": [],
+      "templates": {}
+    }
+  },
+  "users": {
+    "6282389924037@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "6283187938514@s.whatsapp.net@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "": {
+      "name": "",
+      "warn": 0
+    },
+    "247278463934489@lid": {
+      "name": "",
+      "warn": 0
+    },
+    "32498457322@s.whatsapp.net@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "6283872659753@s.whatsapp.net@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "6283872659753@s.whatsapp.net": {
+      "name": "",
+      "warn": 0
+    },
+    "108968353525869@lid": {
+      "name": "",
+      "warn": 0
+    }
+  },
+  "settings": {
+    "self": false,
+    "prefix": ".",
+    "autoread": false,
+    "owners": []
+  }
+}
